@@ -5,7 +5,7 @@ This spec is currently alpha and subject to change
 ## Summary
 A standard protocol to encode Solana transaction requests within URLs to enable payments and other use cases.
 
-This standard draws inspiration from [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) and [EIP 681](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-681.md).
+This standard draws inspiration from [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) and [EIP 765](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-681.md).
 
 ## Motivation
 A standard URL protocol for requesting native SOL transfers, SPL Token transfers, and Solana transactions allows for a better user experience across apps and wallets in the Solana ecosystem.
